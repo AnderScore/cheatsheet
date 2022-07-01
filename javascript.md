@@ -1,0 +1,5 @@
+## Boilerplate
+```js
+(async () => {
+})();
+```
