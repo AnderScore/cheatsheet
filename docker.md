@@ -1,5 +1,5 @@
 ## Shell
 
 ```bash
-docker run -it --entrypoint /bin/sh docker/getting-started
+docker run -it ubuntu /bin/bash
 ```
