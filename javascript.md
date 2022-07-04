@@ -1,5 +1,7 @@
 ## Boilerplate
 ```js
+#!/usr/bin/env node
+
 (async () => {
 })();
 ```
